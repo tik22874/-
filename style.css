@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+.t{
+text-align:;
+}
+a {
+font-size: 40px;
+text-decoration: none;
+border: 3px solid gold;
+border-radius: 15px;
+background-color: gold;
+color: black;
+}
+header{
+border:3px solid blue;
+background-color: blue;
+}
+h1{
+text-align: center;
+}
+h2 {
+color: #FF2C00;
+}
+ul{
+list-style: url("https://i.ibb.co/NgkxJWd8/image.png");
+}
